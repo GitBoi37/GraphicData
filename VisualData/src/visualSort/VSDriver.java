@@ -13,7 +13,7 @@ public class VSDriver extends JFrame{
         pack();
         setResizable(false);
         pack();
-        setTitle("Dear god... so many rectangles");
+        setTitle("Ok.");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
